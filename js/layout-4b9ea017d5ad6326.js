@@ -102,7 +102,7 @@
                                     })
                                 }),
                                 (0, t.jsx)("a", {
-                                    href: "https://pump.fun/profile/FFy6MJsykzEi2tvEoeLwe1aqNifajM8HewCYUayecG8p",
+                                    href: "https://pump.fun/profile/BAGp3JNgdNP9vwMAb6yGXZNHqPCJACGQjW6ynb5K4oMj",
                                     target: "_blank",
                                     rel: "noopener noreferrer",
                                     children: (0, t.jsx)("span", {
